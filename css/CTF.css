@@ -16,6 +16,7 @@ main{
 nav{
     text-align: center;
     font-variant: small-caps;
+    margin: 1%;
 }
 a{
     border: solid;
