@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    border: solid;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(255, 213, 225);
+    margin: 3%;
+}
+main{
+    flex-grow: 1;
+}
+nav{
+    text-align: center;
+    font-variant: small-caps;
+}
+a{
+    border: solid;
+    border-color: black;
+    margin: 1%;
+    padding: 1%;
+    text-decoration: none;
+}
+a:hover{
+    background: turquoise;
+    color: blue;
+    visibility: visible;
+}
+a:focus{
+    background: turquoise;
+    color: blue;
+}
+.column {
+    float: left;
+    width: auto;
+    margin: auto;
+    padding-right: 1%;
+  }
+.fa-facebook {
+    background: blue;
+    color: white;
+}
+.fa-facebook:hover{
+    
+}
