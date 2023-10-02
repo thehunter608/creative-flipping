@@ -47,6 +47,8 @@ a:focus{
 }
 footer{
     background: aquamarine;
+    border: solid;
+    padding: 1%;
 }
 footer h4{
     font-family: cursive;
