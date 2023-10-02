@@ -2,6 +2,7 @@ h1{
     text-align: center;
     background-color: aquamarine;
     border: solid;
+    margin: 2%;
 }
 body{
     display: flex;
